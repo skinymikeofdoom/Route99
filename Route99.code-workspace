@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Route99",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "H:\\Epic\\Unreal\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
